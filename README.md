@@ -1,9 +1,9 @@
 # Digital Business Card - React
 Digital Business Card is a React-based web application designed to serve as a virtual business card, showcasing personal and professional information.
 
-**Link to project:** https:#
+**Link to project:** https://stately-chebakia-750985.netlify.app
 
-![alt tag]image
+![Screenshot of the digital business card](Screenshot.jpg)
 
 ## How It's Made:
 
